@@ -31,7 +31,7 @@ If machine is already producing a product, it cannot start to produce another on
 
 
 ## 🤓 **Maintainers** 
-Sude Fidan(@s2-fidan)
+Sude Fidan(@sudefidan)
 
 ## 📖  **Referencing** 
 * https://developer.apple.com/documentation/uikit/appearance_customization
