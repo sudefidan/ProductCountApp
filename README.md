@@ -9,25 +9,25 @@ This repository contains an iOS application developed using Swift and Xcode. In 
 
 1. Open the app.
  
-![Start](images/start.jpg) 
+![Start](images/start.PNG) 
 
 2. Select machine and click start machine button.
 
-![Machine is started](images/machine_started.jpg) 
+![Machine is started](images/machine_started.PNG) 
 
 If machine is already producing a product, it cannot start to produce another one. 
 
-![Machine is already running](images/machine_already_running.jpg)
+![Machine is already running](images/machine_already_running.PNG)
 
 3. Timer will appear on the screen. 
 
-![Timer](images/timer.jpg) 
+![Timer](images/timer.PNG) 
 
 * Machine B and Machine C is currently working.
 
 4. Notification will pop up when machine is done.
 
-![Machine has finished](images/machine_finished.jpg) 
+![Machine has finished](images/machine_finished.PNG) 
 
 
 ## 🤓 **Maintainers** 
